@@ -9,4 +9,6 @@ The original dataset contains information on 195 countries and originates from t
 
 The project starts with addressing missing values in key columns, proceeds to analyze their descriptive statistics and distributions, and then examines inter-variable relationships using visualizations, log transformations, correlation metrics, and outlier identification.
 
+The final visualization is an interactive Plotly scatterplot, included in this repository as *plotly_scatter.html*. Users can explore the data by hovering over points to reveal country names. A static image of the plot is below.
+
 ![scatterplot](https://github.com/user-attachments/assets/3264056d-78fd-434c-bf66-91b51b4476ce)
