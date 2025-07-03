@@ -11,6 +11,8 @@ The project starts with addressing missing values in key columns, proceeds to an
 
 A couple of the visualizations are interactive Plotly charts that cannot be rendered properly in the .ipynb file within this repository. Static images of these visualizations are included below.
 
+[plot](https://github.com/Mcfeenix/Exploratory-Data-Analysis-with-Python/plotly_scatter.html)
+
 ![choropleth](https://github.com/user-attachments/assets/fe8374a0-6c90-46ff-9ab8-6fe2e5a264a0)
 
 ![scatterplot](https://github.com/user-attachments/assets/3264056d-78fd-434c-bf66-91b51b4476ce)
