@@ -10,12 +10,11 @@ The original dataset contains information on 195 countries and originates from t
 
 The project starts with addressing missing values in key columns, proceeds to analyze their descriptive statistics and distributions, and then examines inter-variable relationships using visualizations, log transformations, correlation metrics, and outlier identification.
 
-A couple of the visualizations are interactive Plotly charts that cannot be rendered properly in the .ipynb file within this repository. Static images of these visualizations are included below.
+A couple of the visualizations are interactive plots that cannot be rendered properly in the .ipynb file within the GitHub repository. Static images of these visualizations with links to the interactive plots are below.
 
-[Go to interactive scatterplot](https://mcfeenix.github.io/Exploratory-Data-Analysis-with-Python/plotly_scatter.html)
-
-[Go to interactive map](https://mcfeenix.github.io/Exploratory-Data-Analysis-with-Python/plotly_choropleth.html)
-
+### Check out the interactive [map](https://mcfeenix.github.io/Exploratory-Data-Analysis-with-Python/plotly_choropleth.html)!
 ![choropleth](https://github.com/user-attachments/assets/fe8374a0-6c90-46ff-9ab8-6fe2e5a264a0)
 
+### Check out the interactive [scatterplot](https://mcfeenix.github.io/Exploratory-Data-Analysis-with-Python/plotly_scatter.html)!
 ![scatterplot](https://github.com/user-attachments/assets/3264056d-78fd-434c-bf66-91b51b4476ce)
+
