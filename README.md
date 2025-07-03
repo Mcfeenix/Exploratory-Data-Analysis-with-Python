@@ -1,4 +1,5 @@
 # Exploratory-Data-Analysis-with-Python
+Check out the project's Python Jupyter Notebook file [here](https://github.com/Mcfeenix/Exploratory-Data-Analysis-with-Python/blob/main/countries_eda.ipynb)!
 ### Description
 This project continues where the [Data-Cleaning-with-Python](https://github.com/Mcfeenix/Data-Cleaning-with-Python.git) project left off. Several features/columns from the Global Countries Information dataset are selected for further analysis. These features are:
 - CO2 Emissions
